@@ -1,0 +1,154 @@
+.container {
+  font-family: "Courier New", Courier, monospace;
+}
+.container1 {
+  /* margin: auto; */
+  /* border: 1px solid; */
+  padding: 2%;
+  text-align: center;
+  position: relative;
+  /* margin-top: -10%; */
+}
+.logo {
+  position: relative;
+  margin-top: -10%;
+}
+h1 {
+  font-size: 35px;
+}
+p {
+  color: gray;
+}
+button {
+  color: #fff;
+  padding: 1%;
+  border: none;
+  margin-left: 5%;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+.snippets {
+  padding: 5%;
+}
+.ios {
+  background-color: hsl(171, 66%, 44%);
+}
+.mac {
+  background: hsl(233, 100%, 69%);
+}
+.container2 {
+  display: flex;
+}
+.left {
+  width: 50%;
+  height: auto;
+}
+.right {
+  /* border: 1px solid; */
+  width: 50%;
+  height: auto;
+  /* padding: %; */
+}
+.computer {
+  width: 100%;
+}
+.box1 {
+  margin: 5% auto;
+  position: relative;
+  right: 10%;
+  /* padding: %; */
+  /* border: 1px solid; */
+  width: 50%;
+  height: auto;
+}
+.clipboard {
+  text-align: center;
+  margin: 10%;
+  margin-top: 25%;
+}
+.devices {
+  margin-top: 10%;
+}
+.workflow {
+  text-align: center;
+  margin-bottom: 5%;
+}
+.container2 {
+  display: flex;
+  /* border: 1px solid; */
+  width: 80%;
+  margin: auto;
+  height: 30vh;
+  text-align: center;
+}
+#box1 {
+  /* border: 1px solid; */
+  width: 50%;
+  padding: 2%;
+}
+.sponsor {
+  display: flex;
+  margin: 5%;
+  /* border: 1px solid; */
+  margin: 10% auto;
+  width: 80%;
+  height: auto;
+}
+.google,
+.ibm,
+.microsoft,
+.hp,
+.svg {
+  /* border: 1px solid; */
+  text-align: center;
+  /* position: relative; */
+  /* left: 5%; */
+  padding: 3%;
+}
+.container3 {
+  padding: 2%;
+  text-align: center;
+  position: relative;
+  margin-bottom: 5%;
+}
+section {
+  margin: 2%;
+  background: lightcyan;
+  /* border: 1px solid; */
+  height: 20vh;
+  display: flex;
+}
+.section-img {
+  width: 20%;
+  height: 80%;
+}
+.section-logo {
+  width: 35%;
+  margin-top: 5%;
+  margin-left: 40%;
+}
+.list {
+  display: flex;
+  padding: 2%;
+  width: 50%;
+  font-size: large;
+}
+.list1,
+.list2,
+.list3 {
+  /* border: 1px solid; */
+  margin-left: 5%;
+  width: 50%;
+}
+.social-icons {
+  margin-top: 3%;
+  margin-left: 5%;
+  /* padding: 2%; */
+  width: 30%;
+}
+#icon {
+  padding: 2%;
+}
